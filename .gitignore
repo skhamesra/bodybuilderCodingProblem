@@ -2,3 +2,4 @@
 target
 coding-challenge.iml
 .DS_Store
+*.graphml

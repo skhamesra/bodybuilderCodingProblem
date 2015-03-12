@@ -8,7 +8,7 @@
         </encoder>
     </appender>
 
-    <logger name="com.bodybuilding.challenge" level="debug" />
+    <logger name="com.bodybuilding.challenge" level="DEBUG" />
 
     <root level="info">
         <appender-ref ref="STDOUT" />
