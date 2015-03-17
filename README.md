@@ -5,7 +5,7 @@ Thank you for taking the Bodybuilding.com Coding Challenge. We want to give you 
  abilities. We will plan on using your deliverables as a point of conversation during a possible technical interview.
  Our hope is that this takes a few hours, not days. Have fun!
 
-Create a REST API that returns website navigation data. The full navigation tree is included in **navigation.json**.
+Create a REST API that returns website navigation data. The full navigation tree is included in [navigation.json](navigation.json).
 
 Requirements:
 
