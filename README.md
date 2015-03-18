@@ -10,8 +10,8 @@ Create a REST API that returns website navigation data. The full navigation tree
 Requirements:
 
 * The API should load and parse navigation.json into memory once at application startup. It should **not** be reparsed for every request.
-* Create a single root API endpoint (mounted on: /)
-* The endpoint will take a single path parameter which is the ID of a navigation node, if the ID parameter is missing assume it is "root"
+* Create a single API endpoint that takes a ID path parameter (/{ID})
+* If the ID parameter is missing assume it is "root"
 * Using the ID the API will find the node and return JSON for a tree that has been pruned using the following rules:
 
     1. The root and it's children should *always* be included
