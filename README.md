@@ -46,3 +46,4 @@ Resulting in:
 * Make sure you include a *README* that explains how to start your API. Feel free to mention any important decisions
 about the project architecture / layout that you think we should know.
 * Include working unit tests
+* Please note, when the interview process has concluded you will be removed from the github team, which will also delete your fork of our private repo.
